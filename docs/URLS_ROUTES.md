@@ -11,3 +11,5 @@ Routes and/or URLs are listed below, with their responses, request type and othe
 <tr><td>5</td><td>/api/v1/messages/fetch/all</td><td>{ none }</td><td>GET</td><td>JSON {}</td><td>{messages: { (array of messages) } }</td><td>This fetches all messages within a set limit e.g 200 messages</td></tr>
 <tr><td>6</td><td>/api/v1/messages/post</td><td>{ content }</td><td>POST + JSON DATA</td><td>JSON {}</td><td>{ sent: boolean }</td><td>Sends a message (POSTs) returns status if sent or not, bool t/f</td></tr>
 </table>
+
+[Documentation Index](https://github.com/LNDevs/Enigma/blob/main/README.md)
