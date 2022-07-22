@@ -9,3 +9,5 @@ This will explain some items within the rest of the documentation which are simp
 <tr><td>3</td><td>userid</td><td>a 16-bit (number) unique identification number which can be used to identify many things in many different paradigms</td></tr>
 <tr><td>4</td><td>EnigmaID</td><td>The same as userid but this is the primitive type, held by a class to dictate over these and prevent repeats</td></tr>
 </table>
+
+[Documentation Index](https://github.com/LNDevs/Enigma/blob/main/README.md)
